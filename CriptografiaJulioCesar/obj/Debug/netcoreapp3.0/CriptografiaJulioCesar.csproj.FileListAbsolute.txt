@@ -1,0 +1,13 @@
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.exe
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.csprojAssemblyReference.cache
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.AssemblyInfoInputs.cache
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.AssemblyInfo.cs
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.deps.json
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.runtimeconfig.json
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.runtimeconfig.dev.json
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.dll
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\CriptografiaJulioCesar.pdb
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.csproj.CopyComplete
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.dll
+C:\Users\Vitor Oliveira Silva\source\repos\CriptografiaJulioCesar\CriptografiaJulioCesar\obj\Debug\netcoreapp3.0\CriptografiaJulioCesar.pdb
